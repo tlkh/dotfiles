@@ -1,0 +1,16 @@
+{
+    "workbench.activityBar.visible": true,
+    "terminal.integrated.fontFamily": "DejaVuSansMono Nerd Font",
+    "editor.fontSize": 16,
+    "terminal.integrated.fontSize": 14,
+    "git.autofetch": true,
+    "python.autoComplete.addBrackets": true,
+    "python.autoComplete.extraPaths": ["/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages"],
+    "python.autoComplete.preloadModules": ["numpy", "cv2", "matplotlib", "tensorflow"],
+    "python.terminal.executeInFileDir": true,
+    "python.linting.enabled": false,
+    "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6",
+    "workbench.startupEditor": "newUntitledFile",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.shell.osx": "/usr/local/bin/zsh"
+}
